@@ -33,7 +33,7 @@ The **AI Virtual Mouse** is an innovative project that replaces traditional inpu
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sayantichy/Ai_virtualMouse/
+   git clone https://github.com/sayantichy/AzureAIvirtualMouse//
    cd ai-virtual-mouse
 2. Install the required dependencies:
    ```bash
