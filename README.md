@@ -40,7 +40,7 @@ The **AI Virtual Mouse** is an innovative project that replaces traditional inpu
    pip install opencv-python mediapipe pyautogui numpy
 4. Run the program:
     ```bash
-    python ai_virtual_mouse.py
+    python avm.py
 ## 📃Usage
 - Ensure your webcam is connected and working.
 - Run the program and allow it to access the webcam.
