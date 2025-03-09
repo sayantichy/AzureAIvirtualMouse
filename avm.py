@@ -5,12 +5,18 @@ import pyautogui
 import numpy as np
 import requests
 
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
+
 
 
 # Azure Computer Vision API credentials
 AZURE_ENDPOINT = "https://avm.cognitiveservices.azure.com/"
-AZURE_KEY = "GEbauPhdBbnu4QaoxxJlb8YlafriU0InBFl7mCu3zIHAoqij3G37JQQJ99BBACYeBjFXJ3w3AAAFACOGUlG5"
-HEADERS = {'Ocp-Apim-Subscription-Key': AZURE_KEY, 'Content-Type': 'application/octet-stream'}
+api_key = os.getenv("AZURE_KEY")
+
+HEADERS = {'Ocp-Apim-Subscription-Key': api_key, 'Content-Type': 'application/octet-stream'}
 
 
 
