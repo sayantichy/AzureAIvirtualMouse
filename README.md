@@ -73,7 +73,7 @@ https://github.com/user-attachments/assets/9c475855-3499-47d1-aefe-14104316f4c2
 - Optimize performance for lower-end systems.
 - Integrate additional gestures for more functionality.
 ## 🎥 Demo & Presentation  
-📌 ([azure ai virtual mouse (PPT)](https://stdntpartners-my.sharepoint.com/:p:/g/personal/sayanti_chowdhury_studentambassadors_com/EbVYswqPRrtJvhOLux1l1UABYhitgsw3IKTp8Tiq_wP4Jg?e=RUf3tZ))
+
 
 https://github.com/user-attachments/assets/15538e73-db31-41f9-a9da-4189868bf51c
 
